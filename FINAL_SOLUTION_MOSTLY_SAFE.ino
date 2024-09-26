@@ -1,5 +1,4 @@
 #include <SoftwareSerial.h>
-#include Secrets.h
 #define BUFFER_SIZE 100
 
 SoftwareSerial esp(13, 12);
